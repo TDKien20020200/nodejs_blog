@@ -1,0 +1,33 @@
+{
+  "name": "test_blog",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TDKien20020200/nodejs_blog.git"
+  },
+  "keywords": [
+    "kien",
+    "kien",
+    "nodejs",
+    "kien",
+    "blog"
+  ],
+  "author": "kennie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TDKien20020200/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/TDKien20020200/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
